@@ -10,6 +10,8 @@ graphviz>=0.21
 pydot>=1.4.2
 pydotplus>=2.0.2
 
+ply>=3.11
+
 black>=23.0.0
 ruff>=0.1.0
 mypy>=1.0.0
